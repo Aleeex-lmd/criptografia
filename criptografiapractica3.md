@@ -80,7 +80,7 @@ Qué hace cada opción:
 
 ![alt text](img/practica3tarea2img1.png)
 
-## Tarea 3: Firma electrónicaPermalink
+## Tarea 3: Firma electrónica
 
 ### 1.Utilizando la página VALIDe y el programa autofirma, firma un documento con tu certificado y envíalo por correo a un compañero.
 
